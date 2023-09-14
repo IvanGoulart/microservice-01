@@ -4,10 +4,4 @@
 
 Bora aprender sobre microserviços no Laravel, usando o RabbitMQ?!?
 
-- [Acesse o Curso](https://academy.especializati.com.br/curso/laravel-microservices-rabbitmq).
-
-
-Links Úteis:
-
-- :tada: [Saiba Mais](https://linktr.ee/especializati)
 # microservice-01
